@@ -11,7 +11,7 @@
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: hallan.costa@hotmail.com
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I'm curious.
+- ⚡ Fun fact: I'm very curious 🤭.
 
 <!-- 
    Profile visit count
