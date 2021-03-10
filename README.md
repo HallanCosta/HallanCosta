@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Backend.
 - 🌱 I’m currently learning NodeJS and React with Typescript TDD.
 - 💬 Ask me about Typescript, React Native or any tech related stuff.
-- 📫 How to reach me: hallan.costa@hotmail.com
+- 📫 How to reach me: hallan.costa1@hotmail.com
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I'm very curious 🤭.
 
