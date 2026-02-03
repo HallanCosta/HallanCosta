@@ -52,7 +52,7 @@ const hallan = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
    <!-- Card Statistics -->
    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=hallancosta&show_icons=true&hide_border=false&title_color=58A6FF&icon_color=FF7B72&text_color=C9D1D9&bg_color=0D1117&count_private=true&include_all_commits=true" height="180"/>
    
